@@ -1,2 +1,2 @@
 # SO
-PrácticasS0 GEI UDC 23/24
+Prácticas SO GEI UDC 23/24
